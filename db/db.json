@@ -1,0 +1,11 @@
+[
+    {
+        "title": "Welcome to Note Taker!",
+        "text": "Click the '+' button to start creating a note!"
+    },
+    {
+        "title": "Hello",
+        "text": "This is a test note! Press the trash can to delete!",
+        "id": "4c0d47ef-562d-49e5-81a4-0eb4b1fc9625"
+    }
+]
