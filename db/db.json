@@ -1,10 +1,10 @@
 [
     {
         "title": "Welcome to Note Taker!",
-        "text": "Click the '+' button to start creating a note!"
+        "text": "Click the '+' button to start creating a note! Click the save icon to save your note!"
     },
     {
-        "title": "Hello",
+        "title": "How to Delete",
         "text": "This is a test note! Press the trash can to delete!",
         "id": "4c0d47ef-562d-49e5-81a4-0eb4b1fc9625"
     }
